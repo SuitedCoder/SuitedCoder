@@ -1,9 +1,8 @@
-### what do u want
+### hi
 
 i dont know how u get here but heres some information about me :
 - i am suitedcoder
-- i do work in projects
-- hell nah im not giving my other information
+- kinda a contributor to horangstudios
 
 <!--
 **SuitedCoder/SuitedCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
