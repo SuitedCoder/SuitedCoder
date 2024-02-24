@@ -2,7 +2,7 @@ hi there
 
 this is like my profile page i think?
 
-what project i contribute to:
+what github repo i contribute to:
  - horanghill
  - tritium
 
